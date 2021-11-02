@@ -21,7 +21,7 @@ title_separator          : "&#123"
 subtitle                 : "Version 0.1"# site tagline that appears below site title in masthead
 name                     : "안민영"
 description              : "개발 블로그"
-url                      : "https://amy.com"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ahnminyoung.github.io/"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "amy0302/amy0302.github.com"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
