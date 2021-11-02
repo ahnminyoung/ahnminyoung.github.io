@@ -106,7 +106,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "응애개발자"
   location         : "판교로 421 탑마을(야탑)"
-  email            :
+  email            : "anrh0213@nate.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
