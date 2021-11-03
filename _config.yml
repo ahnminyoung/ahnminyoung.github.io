@@ -288,3 +288,4 @@ defaults:
       comments: # 블로그 댓글 기능 true
       share: true
       related: true
+      sidebar: true
