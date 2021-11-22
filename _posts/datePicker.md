@@ -41,13 +41,13 @@ function disableAllTheseDays(date){
 ##### $("#ID").datepicker() 안에
 
 ```
-$("#ID").datepicer(){
-	beforShowDay: disabledExceptTheDays, 넣기 
+	$("#ID").datepicer(){
+		beforShowDay: disabledExceptTheDays, 넣기 
 
-	onChangeMonthYear: function (selectedYear, selectedMonth){
-		selectSchedAssignedDates(String(selectedYear) + lPad(seelctedMonth));	// lPad(date.getDate()) -> 1일 - 01일로 
+		onChangeMonthYear: function (selectedYear, selectedMonth){
+			selectSchedAssignedDates(String(selectedYear) + lPad(seelctedMonth));	// lPad(date.getDate()) -> 1일 - 01일로 
+		}
 	}
-}
 ```
 
 
