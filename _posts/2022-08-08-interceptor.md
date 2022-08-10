@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Interceptor"
+title: "인프런(김영한) interceptor "
 date: 2022-08-08
 
 ---
