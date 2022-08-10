@@ -1,3 +1,11 @@
+---
+
+layout: post
+title: "Interceptor"
+date: 2022-08-08
+
+---
+
 ## 인터셉터
 
 서블릿 필터가 서블릿이 제공하는 기술이라면, 스프링 인터셉터는  <span style="font-weight:bold;color:#CC9966;"> 스프링 MVC </span> 가 제공하는 기술. 웹과 관련된 공통 관심 사항을 처리하지만, 적용되는 순서와 범위, 그리고 사용방법은 다름
